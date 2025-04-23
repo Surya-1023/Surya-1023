@@ -1,7 +1,14 @@
 <!-- Header Section -->
+<!-- Background-style banner (static but styled) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hariprasd/Hariprasd/main/assets/banner-dark-glow.png" alt="Background Banner" width="100%" />
+</p>
+
+<!-- Animated typing intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Hariprasad's+GitHub!;UI/UX+Designer+%7C+Front-End+Developer;Founder+of+DevignX+Studio+🚀" alt="Typing SVG" />
 </h1>
+
 
 
 <!-- Introduction -->
