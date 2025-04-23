@@ -36,6 +36,32 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 📊 GitHub Stats & Activity
 
+<!-- GitHub Stats Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya-1023&show_icons=true&theme=radical" alt="Surya's GitHub Stats" />
+</p>
+
+<!-- Top Languages Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-1023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- GitHub Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-1023&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Surya-1023&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF" alt="GitHub Streak Stats" />
+</p>
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Surya-1023&theme=darkhub" alt="GitHub Trophy" />
+</p>
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Surya-1023&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF" alt="GitHub Streak"/>
 </p>
