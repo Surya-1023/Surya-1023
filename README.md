@@ -11,7 +11,9 @@
 
 
 👋 Hi there, I'm Surya N
+
 💻 Full-Stack Developer | MERN Stack Enthusiast
+
 I'm a passionate developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building responsive and user-friendly web apps with clean code and stunning UI. Always learning, always building. 🚀
 
 🧠 Featured Projects
@@ -30,15 +32,21 @@ I'm a passionate developer specializing in the MERN stack (MongoDB, Express.js, 
 🔸 Weather API App	A weather forecasting web app powered by live API data with a clean and functional UI.
 
 🛠️ Tech Stack
-Frontend: React.js, TypeScript, HTML, CSS
+
+Frontend: React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Others: Flutter, Python
 
 📫 Let's Connect
 
 Portfolio: surya-portfolio-main.vercel.app
+
 LinkedIn: Surya N
+
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
 📊 GitHub Stats & Activity
