@@ -1,72 +1,50 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I'm+Surya+N+-+Full+Stack+Developer;MERN+Stack+Specialist+%F0%9F%92%BB;Crafting+Modern+Web+Experiences+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
-
-
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Surya%20N&fontSize=45&fontAlign=40&fontColor=00FFFF&desc=Full%20Stack%20Developer%20|%20Tech%20Enthusiast&descSize=20&descAlign=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hari%20Pradap&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
+<!-- Typing Animation -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6A11CB&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DevOps+Enthusiast;MERN+Stack+Specialist;Open+Source+Contributor" alt="Typing SVG" />
+</h2>
 
+<!-- About Me -->
+## 👨‍💻 About Me
 
+- 🌱 I’m currently learning **Docker** and **Kubernetes**
+- 💬 Ask me about **Node.js**, **Express**, and **MongoDB**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hari-pradap-490663260/)
+- ⚡ Fun fact: I enjoy solving complex problems and optimizing applications for performance.
 
-👋 Hi there, I'm Surya N
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
 
-💻 Full-Stack Developer | MERN Stack Enthusiast
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-I'm a passionate developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building responsive and user-friendly web apps with clean code and stunning UI. Always learning, always building. 🚀
-
-🧠 Featured Projects
-
-
-🔸 SRMS-event	A smart event management platform for organizing and managing college events efficiently. Built using TypeScript.
-
-🔸 LMS-web	A Learning Management System web app with features for students and educators. Created with JavaScript and Node.js.
-
-🔸 Travel-Hub	A visually rich travel website for exploring destinations. Developed with TypeScript and React.
-
-🔸 Portfolio	My personal portfolio website showcasing my work, built with a modern UI and responsive design.
-
-🔸 Inventory Management System	A system to track, manage, and organize inventory using efficient CRUD operations.
-
-🔸 Weather API App	A weather forecasting web app powered by live API data with a clean and functional UI.
-
-🛠️ Tech Stack
-
-Frontend: React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Others: Flutter, Python
-
-📫 Let's Connect
-
-Portfolio: surya-portfolio-main.vercel.app
-
-LinkedIn: Surya N
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
-
-📊 GitHub Stats & Activity
-
-<!-- GitHub Profile Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Surya-1023&theme=darkhub" alt="GitHub Trophy" />
-</p>
-
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Surya-1023&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Haripradap&show_icons=true&theme=light&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haripradap&layout=compact&theme=light&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-1023&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Haripradap&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-1023&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haripradap&theme=light&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" alt="footer" />
+</p>
