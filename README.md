@@ -1,7 +1,8 @@
 <!-- Header Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,100:302b63&height=200&section=header&text=Hariprasad%20B&fontSize=40&fontColor=ffffff&desc=UI/UX%20Designer%20|%20Front-End%20Developer%20|%20Founder%20@DevignX%20Studio&descSize=20&descAlign=50" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+Hariprasad's+GitHub!;UI%2FUX+Designer+|+Front-End+Developer;Founder+of+DevignX+Studio+🚀" alt="Typing SVG" />
+</h1>
+
 
 <!-- Introduction -->
 ### 👋 Hello there!
