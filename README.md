@@ -34,7 +34,18 @@ Portfolio: surya-portfolio-main.vercel.app
 LinkedIn: Surya N
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-📊 GitHub Stats
+📊 GitHub Stats & Activity
 
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya-1023&show_icons=true&theme=radical&cache_seconds=1800)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Surya-1023&theme=dark&hide_border=true&background=0D1117&stroke=00FFFF" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-1023&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-1023&theme=react-dark&hide_border=true&area=true" />
+</p>
+
 
