@@ -60,7 +60,7 @@ const surya = {
 ### ⭐ Now Showing
 
 <p align="center">
-  <a href="https://github.com/Surya-1023/YOUR-NEW-REPO">
+  <a href="https://github.com/Surya-1023/PDF_Reader(RAG)">
     <img src="assets/spotlight.svg" alt="Flagship project" width="100%"/>
   </a>
 </p>
