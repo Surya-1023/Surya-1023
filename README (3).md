@@ -28,7 +28,7 @@ I'm **Surya N**, a **Full Stack Developer** who lives in the MERN ecosystem and 
 ```javascript
 const surya = {
   role: "Full Stack Developer",
-  education: "B.Tech · Class of 2026",
+  education: "B.Tech · Information Technology · Class of 2026",
   superpower: "MERN Stack",
   fuel: ["Curiosity", "Coffee", "Clean commits"],
   currentMission: "AI-powered products on top of solid full-stack foundations",
@@ -60,7 +60,7 @@ const surya = {
 ### ⭐ Now Showing
 
 <p align="center">
-  <a href="https://github.com/Surya-1023/PDF_Reader(RAG)">
+  <a href="https://github.com/Surya-1023/PDF_Reader-RAG">
     <img src="assets/spotlight.svg" alt="Flagship project" width="100%"/>
   </a>
 </p>
@@ -82,7 +82,7 @@ Ask questions in plain English, get answers grounded in the PDF itself using Ret
 
 `Python` `LangChain` `HuggingFace` `ChromaDB`
 
-<a href="https://github.com/Surya-1023?tab=repositories"><img src="https://img.shields.io/badge/▶%20Watch%20Trailer-2457A7?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Surya-1023/PDF_Reader-RAG"><img src="https://img.shields.io/badge/▶%20Watch%20Trailer-2457A7?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +134,7 @@ A modern portfolio showcasing my skills, journey and projects.
 
 `Web Development` `Database` `CRUD`
 
-<a href="https://github.com/Surya-1023?tab=repositories"><img src="https://img.shields.io/badge/▶%20Watch%20Trailer-2457A7?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Surya-1023/Inventory-Management"><img src="https://img.shields.io/badge/▶%20Watch%20Trailer-2457A7?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -185,8 +185,8 @@ A modern portfolio showcasing my skills, journey and projects.
 
 <p align="center">
   <a href="https://surya-portfolio-main.vercel.app"><img src="https://img.shields.io/badge/🌐%20Portfolio-2457A7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/surya-n-725955257"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:suryan2398@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Open to opportunities, collaborations and building something meaningful.</i></p>
